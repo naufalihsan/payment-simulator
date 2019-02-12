@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1345px" height="70px" viewBox="0 0 1345 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>horizontal_step_progress</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4" transform="translate(-61.000000, -185.000000)">
+            <g id="horizontal_step_progress" transform="translate(60.000000, 185.000000)">
+                <rect id="Rectangle-29" fill="#1CA09C" x="60" y="15" width="145" height="2"></rect>
+                <rect id="Rectangle-29-Copy" fill="#1CA09C" x="219" y="15" width="145" height="2"></rect>
+                <g id="2" transform="translate(196.000000, 0.000000)">
+                    <circle id="Oval-6-Copy" fill="#1CA09C" cx="15.5" cy="15.5" r="15.5"></circle>
+                    <text font-family="Helvetica" font-size="11" font-weight="normal" line-spacing="17" letter-spacing="2.121428" fill="#FFFFFF">
+                        <tspan x="12" y="15">2</tspan>
+                    </text>
+                </g>
+                <g id="2-copy-2" transform="translate(38.000000, 0.000000)">
+                    <circle id="Oval-6-Copy" fill="#1CA09C" cx="15.5" cy="15.5" r="15.5"></circle>
+                    <text id="1" font-family="Helvetica" font-size="11" font-weight="normal" line-spacing="17" letter-spacing="2.121428" fill="#FFFFFF">
+                        <tspan x="13" y="17">1</tspan>
+                    </text>
+                </g>
+                <g id="2-copy" transform="translate(356.000000, 0.000000)">
+                    <circle id="Oval-6-Copy" fill="#1CA09C" cx="15.5" cy="15.5" r="15.5"></circle>
+                    <text id="3" font-family="Helvetica" font-size="11" font-weight="normal" line-spacing="17" letter-spacing="2.121428" fill="#FFFFFF">
+                        <tspan x="12" y="17">3</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-29-Copy" fill="#1CA09C" x="386" y="15" width="145" height="2"></rect>
+                <g id="2-copy" transform="translate(523.000000, 0.000000)">
+                    <circle id="Oval-6-Copy" fill="#ECB20E" cx="15.5" cy="15.5" r="15.5"></circle>
+                    <text id="4" font-family="Helvetica" font-size="11" font-weight="normal" line-spacing="17" letter-spacing="2.121428" fill="#FFFFFF">
+                        <tspan x="12" y="17">4</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-29-Copy" fill="#C6C3C3" x="553" y="15" width="145" height="2"></rect>
+                <g id="2-copy" transform="translate(690.000000, 0.000000)">
+                    <circle id="Oval-6-Copy" fill="#C6C3C3" cx="15.5" cy="15.5" r="15.5"></circle>
+                    <text id="5" font-family="Helvetica" font-size="11" font-weight="normal" line-spacing="17" letter-spacing="2.121428" fill="#FFFFFF">
+                        <tspan x="12" y="17">5</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-29-Copy" fill="#C6C3C3" x="721" y="15" width="588" height="2"></rect>
+                <g id="2-copy" transform="translate(1309.000000, 0.000000)" fill="#C6C3C3">
+                    <circle id="Oval-6-Copy" cx="15.5" cy="15.5" r="15.5"></circle>
+                </g>
+                <text id="Selesai" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="17" fill="#45545B">
+                    <tspan x="1301.0415" y="45">Selesai</tspan>
+                </text>
+                <text id="Kunjungi-Alfamart" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="17" fill="#45545B">
+                    <tspan x="0.748535156" y="51">Kunjungi Alfamart</tspan>
+                </text>
+                <text id="Pergi-ke-Kasir" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="17" fill="#45545B">
+                    <tspan x="189.820801" y="51">Pergi ke </tspan>
+                    <tspan x="199.551758" y="68">Kasir</tspan>
+                </text>
+                <text id="Payment-Code" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="17" fill="#45545B">
+                    <tspan x="348.375977" y="51">Payment </tspan>
+                    <tspan x="359.265625" y="68">Code</tspan>
+                </text>
+                <text id="Konfirmasi-Tagihan" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="17" fill="#45545B">
+                    <tspan x="504.93457" y="51">Konfirmasi </tspan>
+                    <tspan x="512.703613" y="68">Tagihan</tspan>
+                </text>
+                <text id="Simpan-Struk" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="17" fill="#45545B">
+                    <tspan x="681.265625" y="51">Simpan </tspan>
+                    <tspan x="688.662109" y="68">Struk</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

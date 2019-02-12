@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1356px" height="67px" viewBox="0 0 1356 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>horizontal_step_progress</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6" transform="translate(-44.000000, -187.000000)">
+            <g id="horizontal_step_progress" transform="translate(42.000000, 187.000000)">
+                <rect id="Rectangle-29" fill="#1CA09C" x="61" y="15" width="146" height="2"></rect>
+                <rect id="Rectangle-29-Copy" fill="#1CA09C" x="221" y="15" width="146" height="2"></rect>
+                <g id="2" transform="translate(198.000000, 0.000000)">
+                    <ellipse id="Oval-6-Copy" fill="#1CA09C" cx="16" cy="15.5" rx="16" ry="15.5"></ellipse>
+                    <text font-family="Helvetica" font-size="11" font-weight="normal" line-spacing="17" letter-spacing="2.121428" fill="#FFFFFF">
+                        <tspan x="12.3870968" y="15">2</tspan>
+                    </text>
+                </g>
+                <g id="2-copy-2" transform="translate(38.000000, 0.000000)">
+                    <ellipse id="Oval-6-Copy" fill="#1CA09C" cx="16" cy="15.5" rx="16" ry="15.5"></ellipse>
+                    <text id="1" font-family="Helvetica" font-size="11" font-weight="normal" line-spacing="17" letter-spacing="2.121428" fill="#FFFFFF">
+                        <tspan x="13.516129" y="17">1</tspan>
+                    </text>
+                </g>
+                <g id="2-copy" transform="translate(359.000000, 0.000000)">
+                    <ellipse id="Oval-6-Copy" fill="#1CA09C" cx="16" cy="15.5" rx="16" ry="15.5"></ellipse>
+                    <text id="3" font-family="Helvetica" font-size="11" font-weight="normal" line-spacing="17" letter-spacing="2.121428" fill="#FFFFFF">
+                        <tspan x="12.516129" y="17">3</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-29-Copy" fill="#1CA09C" x="390" y="15" width="146" height="2"></rect>
+                <g id="2-copy" transform="translate(527.000000, 0.000000)">
+                    <ellipse id="Oval-6-Copy" fill="#1CA09C" cx="16" cy="15.5" rx="16" ry="15.5"></ellipse>
+                    <text id="4" font-family="Helvetica" font-size="11" font-weight="normal" line-spacing="17" letter-spacing="2.121428" fill="#FFFFFF">
+                        <tspan x="12.516129" y="17">4</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-29-Copy" fill="#1CA09C" x="558" y="15" width="146" height="2"></rect>
+                <g id="2-copy" transform="translate(696.000000, 0.000000)">
+                    <ellipse id="Oval-6-Copy" fill="#ECB20E" cx="16" cy="15.5" rx="16" ry="15.5"></ellipse>
+                    <text id="5" font-family="Helvetica" font-size="11" font-weight="normal" line-spacing="17" letter-spacing="2.121428" fill="#FFFFFF">
+                        <tspan x="12.516129" y="17">5</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-29-Copy" fill="#C6C3C3" x="727" y="15" width="593" height="2"></rect>
+                <g id="2-copy" transform="translate(1320.000000, 0.000000)" fill="#C6C3C3">
+                    <ellipse id="Oval-6-Copy" cx="16" cy="15.5" rx="16" ry="15.5"></ellipse>
+                </g>
+                <text id="Selesai" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="17" fill="#45545B">
+                    <tspan x="1313.0415" y="45">Selesai</tspan>
+                </text>
+                <text id="Kunjungi-Alfamart" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="17" fill="#45545B">
+                    <tspan x="1.24853516" y="51">Kunjungi Alfamart</tspan>
+                </text>
+                <text id="Pergi-ke-Kasir" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="17" fill="#45545B">
+                    <tspan x="173.427734" y="51">Pergi ke Kasir</tspan>
+                </text>
+                <text id="Payment-Code" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="17" fill="#45545B">
+                    <tspan x="351.875977" y="51">Payment </tspan>
+                    <tspan x="362.765625" y="68">Code</tspan>
+                </text>
+                <text id="Konfirmasi-Tagihan" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="17" fill="#45545B">
+                    <tspan x="483.193359" y="51">Konfirmasi Tagihan</tspan>
+                </text>
+                <text id="Simpan-Struk" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="17" fill="#45545B">
+                    <tspan x="669.48291" y="51">Simpan Struk</tspan>
+                </text>
+                <g id="Page-1" transform="translate(1327.000000, 9.000000)" fill="#FFFFFF">
+                    <path d="M5.92665385,12.4076606 C6.22520769,12.7261152 6.20565385,13.2225848 5.88277692,13.5170848 C5.55942308,13.8111152 5.05483846,13.7918576 4.75580769,13.4738727 L0.245546154,8.67028182 C-0.0530076923,8.35182727 -0.0334538462,7.85535758 0.2899,7.56085758 C0.613253846,7.26682727 1.11736154,7.28608485 1.41591538,7.6040697 L5.92665385,12.4076606 Z" id="Fill-5"></path>
+                    <path d="M17.1818477,1.11201212 C17.5047246,0.817512121 18.0174169,0.845693939 18.3259862,1.17448182 C18.6345554,1.5032697 18.6231092,2.00866364 18.3002323,2.30269394 L5.94363231,13.5561636 C5.62027846,13.8506636 5.10806308,13.8229515 4.79901692,13.4936939 C4.49044769,13.1649061 4.50189385,12.6599818 4.82477077,12.3654818 L17.1818477,1.11201212 Z" id="Fill-7"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
